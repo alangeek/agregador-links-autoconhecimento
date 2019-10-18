@@ -6,14 +6,14 @@ Uma lista de recursos para desenvolvedores que querem se aperfeiçoar as suas ha
 
 Nome | Website
 ------------ | -------
-Codewars | https://www.codewars.com/
-Codeforces | https://codeforces.com/
-CodinGame | https://www.codingame.com/start
-Coderbyte  | https://coderbyte.com/
-Coderbyte  | https://coderbyte.com/
-CodeHS  | https://codehs.com/
-Exercism | https://exercism.io/
-HackerRank. | https://www.hackerrank.com/
-TopCoder | https://www.topcoder.com/
-HackerEarth | https://www.hackerearth.com/pt-br/
-The Odin Project  | https://www.theodinproject.com/
+Codewars | [CODEWRAS](https://www.codewars.com/)
+Codeforces | [Codeforces](https://codeforces.com/)
+CodinGame | [CodinGame](https://www.codingame.com/start)
+Coderbyte  | [Coderbyte](https://coderbyte.com/)
+Coderbyte  | [Coderbyte](https://coderbyte.com/)
+CodeHS  | [CodeHS](https://codehs.com/)
+Exercism | [Exercism](https://exercism.io/)
+HackerRank | [HackerRank](https://www.hackerrank.com/)
+TopCoder | [TopCoder](https://www.topcoder.com/)
+HackerEarth | [HackerEarth](https://www.hackerearth.com/pt-br/)
+The Odin Project  | [The Odin Project](https://www.theodinproject.com/)
