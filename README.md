@@ -2,7 +2,7 @@
 ## DESAFIOS DE PROGRAMAÇÃO COMPETITIVA 
 ###PS Programador é solucionador de problemas Partiuuu...
 
-Nome | Website
+LABEL | WEBSITE
 ------------ | -------
 Codewars | [CODEWRAS](https://www.codewars.com/)
 Codeforces | [Codeforces](https://codeforces.com/)
@@ -15,4 +15,4 @@ HackerRank | [HackerRank](https://www.hackerrank.com/)
 TopCoder | [TopCoder](https://www.topcoder.com/)
 HackerEarth | [HackerEarth](https://www.hackerearth.com/pt-br/)
 The Odin Project  | [The Odin Project](https://www.theodinproject.com/)
-Leetcode  | [Leetcode](https://leetcode.com/)
+O LeetCode é a melhor plataforma para ajudá-lo a aprimorar suas habilidades, expandir seu conhecimento e se preparar para entrevistas técnicas  | [Leetcode](https://leetcode.com/)
