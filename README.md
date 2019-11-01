@@ -16,3 +16,6 @@ TopCoder | [TopCoder](https://www.topcoder.com/)
 HackerEarth | [HackerEarth](https://www.hackerearth.com/pt-br/)
 The Odin Project  | [The Odin Project](https://www.theodinproject.com/)
 O LeetCode é a melhor plataforma para ajudá-lo a aprimorar suas habilidades, expandir seu conhecimento e se preparar para entrevistas técnicas  | [Leetcode](https://leetcode.com/)
+
+
+![esquema-piramide-do-aprendizado](https://user-images.githubusercontent.com/48631681/68060039-89b7b200-fcdd-11e9-9373-a45eeada5fc9.png)
