@@ -1,8 +1,6 @@
-# DEV-TOOLS  LINKS PARA ESTUDOS:
-
-Uma lista de recursos para desenvolvedores que querem se aperfeiçoar as suas habilidades e conhecimentos
-
+# LÓGICA DE PROGRAMÇÃO
 ## DESAFIOS DE PROGRAMAÇÃO COMPETITIVA 
+###PS Programador é solucionador de problemas Partiuuu...
 
 Nome | Website
 ------------ | -------
@@ -17,3 +15,4 @@ HackerRank | [HackerRank](https://www.hackerrank.com/)
 TopCoder | [TopCoder](https://www.topcoder.com/)
 HackerEarth | [HackerEarth](https://www.hackerearth.com/pt-br/)
 The Odin Project  | [The Odin Project](https://www.theodinproject.com/)
+Leetcode  | [The Odin Project](https://leetcode.com/)
