@@ -1,6 +1,6 @@
 # LÓGICA DE PROGRAMÇÃO
 ## DESAFIOS DE PROGRAMAÇÃO COMPETITIVA 
-###PS Programador é solucionador de problemas Partiuuu...
+### PS Programador é solucionador de problemas Partiuuu...
 
 LABEL | WEBSITE
 ------------ | -------
